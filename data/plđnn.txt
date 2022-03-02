@@ -1,0 +1,78 @@
+1	20021299	Bùi Văn Bách	02/07/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+2	20020075	Dương Đình Ngọc Bách	07/02/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+3	20021302	Tạ Thành Bảo	07/03/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+4	20021305	Hoàng Mạnh Bình	16/10/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+5	20021307	Nguyễn Đình Chính	10/02/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+6	20021315	Đỗ Quốc Dũng	02/06/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+7	20021318	Lê Đức Duy	12/10/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+8	20020356	Lê Hoàng Đại Dương	25/11/1999	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+9	20021321	Nguyễn Hoàng Dương	07/12/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+10	20021322	Phùng Ánh Dương	04/08/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+11	20021330	Nguyễn Hồng Đăng	17/02/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+12	20021333	Đàm Anh Đức	14/09/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+13	20021337	Nguyễn Minh Đức	01/12/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+14	20020077	Trần Văn Đức	22/06/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+15	20021347	Nguyễn Duy Hiến	20/12/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+16	20021351	Dương Hiếu	21/09/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+17	20020014	Lê Đức Mai Hoàng	17/11/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+18	20020138	Phạm Công Mạnh Hùng	09/12/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+19	20021366	Giáp Văn Huy	16/03/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+20	20021367	Nguyễn Quang Huy	12/11/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+21	20020140	Nguyễn Quốc Khánh	01/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+22	20021374	Nguyễn Thế Khánh	12/10/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+23	20020021	Dương Bảo Long	08/08/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+24	20020144	Đặng Hoàng Long	19/06/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+25	20021386	Nguyễn Đức Hoàng Long	11/07/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+26	20020080	Hoàng Đức Mạnh	06/03/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+27	20021391	Đỗ Đức Minh	23/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+28	20020146	Nguyễn Quang Minh	20/12/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+29	20020081	Nguyễn Tấn Minh	27/09/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+30	20021396	Phạm Trung Minh	20/09/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+31	20020223	Nguyễn Huỳnh Trà My	02/07/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+32	20021400	Bế Trọng Nghĩa	08/11/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+33	20020148	Lê Đình Nghĩa	01/05/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+34	20020149	Phan Thanh Ngọc	28/11/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+35	20021407	Vũ Minh Nhật	08/04/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+36	20021410	Nguyễn Văn Phong	26/04/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+37	20020150	Trần Bá Phong	24/02/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+38	20020151	Nguyễn Đăng Minh Phương	02/09/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+39	20020224	Phạm Việt Quang	21/10/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+40	20021415	Nguyễn Anh Quân	01/12/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+41	20021416	Nguyễn Đức Anh Quân	24/02/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+42	20021417	Phạm Duy Minh Quân	03/04/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+43	20021418	Nguyễn Minh Quy	24/03/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+44	20021420	Nguyễn Quốc Quý	29/09/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+45	20021422	Đào Văn Quyền	04/05/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+46	20020082	Lê Minh Quyết	15/01/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+47	20021423	Nguyễn Tương Quyết	11/07/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+48	20021425	Nguyễn Thị Quỳnh	17/11/2001	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+49	20021428	Bùi Minh Sơn	09/09/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+50	20021429	Cao Xuân Sơn	20/04/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+51	20020153	Đoàn Thanh Sơn	14/10/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+52	20021434	Lê Huy Thái	25/08/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+53	20020154	Đinh Tiến Thành	25/07/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+54	20021435	Phạm Công Thành	28/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+55	20020155	Ngô Văn Minh Thắng	10/09/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+56	20020156	Phạm Đức Thắng	03/10/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+57	20021440	Tạ Văn Thắng	20/08/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+58	20021441	Hoàng Nam Thế	01/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+59	20021442	Lê Phúc Thiệp	18/05/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+60	20020157	Đỗ Trọng Thư	06/08/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+61	20021449	Phạm Văn Tiến	13/05/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+62	20020237	Hoàng Nguyễn Minh Trang	15/03/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+63	20020083	Nguyễn Hoàng Trung	25/08/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+64	20020225	Nguyễn Quốc Trung	22/02/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+65	20021457	Nguyễn Việt Trung	01/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+66	20021459	Trịnh Công Trung	02/01/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+67	20021461	Nguyễn Lưu Tú	02/08/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+68	20021462	Nguyễn Trung Tú	18/09/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+69	20021463	Đỗ Duy Tuấn	20/08/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+70	20020158	Dương Đức Tùng	14/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+71	20021469	Nguyễn Đức Tùng	15/08/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+72	20020159	Nguyễn Sơn Tùng	07/07/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+73	20021471	Phạm Đức Tùng	11/08/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+74	20021472	Trần Thanh Tùng	26/01/2002	QH-2020-I/CQ-C-A-CLC3	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+75	20021476	Nguyễn Duy Việt	30/07/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+76	20020160	Nguyễn Hoàng Việt	07/05/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+77	20021477	Phạm Thành Vinh	06/07/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
+78	20021479	Nguyễn Văn Minh Vũ	05/01/2002	QH-2020-I/CQ-C-A-CLC2	INT3514 21	Pháp luật và đạo đức nghề nghiệp trong CNTT	CL	2	ĐK lần đầu
